@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Get in touch
+ - [TWITTER](https://twitter.com/Nitikorn_SUT)
+ - [FACEBOOK](https://web.facebook.com/profile.php?id=100001174089600&fref=comp) 
+ 

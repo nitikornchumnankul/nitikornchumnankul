@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 # Get in touch
- - [TWITTER](https://twitter.com/Nitikorn_SUT)
- - [FACEBOOK](https://web.facebook.com/profile.php?id=100001174089600&fref=comp) 
+ - [TWITTER](https://twitter.com/Nitikorn_SUT) (Thai)
+ - [FACEBOOK](https://web.facebook.com/profile.php?id=100001174089600&fref=comp) (Eng)
  
 # My Blogs
 ## Publics

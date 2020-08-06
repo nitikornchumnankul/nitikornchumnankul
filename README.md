@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 💻 [Dev.io](https://dev.to/nitikornchumnankul) (Eng)
 
-📚 [stackshare](https://stackshare.io/nitikornchumnankul) (Eng)
+📚 [Stackshare](https://stackshare.io/nitikornchumnankul) (Eng)
 ## Private
 ✏ [Notion](https://www.notion.so/Life-Wiki-a133ae2d0ece4c519b1fd14da060a550)
  

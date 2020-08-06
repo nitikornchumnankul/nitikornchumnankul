@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 🖥 [MEDIUM](https://medium.com/@nitikornchumnankul_93990) (Thai)
 
 💻 [Dev.io](https://dev.to/nitikornchumnankul) (Eng)
+
+📚 [stackshare](https://stackshare.io/nitikornchumnankul) (Eng)
 ## Private
 ✏ [Notion](https://www.notion.so/Life-Wiki-a133ae2d0ece4c519b1fd14da060a550)
  

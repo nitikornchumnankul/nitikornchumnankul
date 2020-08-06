@@ -23,4 +23,10 @@ Here are some ideas to get you started:
  - [FACEBOOK](https://web.facebook.com/profile.php?id=100001174089600&fref=comp) 
  
 # My Blogs
+## Publics
+🖥 [MEDIUM](https://medium.com/@nitikornchumnankul_93990) (Thai)
+
+💻 [Dev.io](https://dev.to/nitikornchumnankul) (Eng)
+## Private
+✏ [Notion](https://www.notion.so/Life-Wiki-a133ae2d0ece4c519b1fd14da060a550)
  

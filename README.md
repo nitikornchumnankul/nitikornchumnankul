@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 
 # Get in touch
- - [TWITTER](https://twitter.com/Nitikorn_SUT) (Thai)
- - [FACEBOOK](https://web.facebook.com/profile.php?id=100001174089600&fref=comp) (Eng)
+ - [TWITTER](https://twitter.com/Nitikorn_SUT) (Eng)
+ - [FACEBOOK](https://web.facebook.com/profile.php?id=100001174089600&fref=comp) (Thai)
  
 # My Blogs
 ## Publics

@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![chi](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif) 
 ![chi](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nitikornchumnankul&theme=buefy&show_icons=true)

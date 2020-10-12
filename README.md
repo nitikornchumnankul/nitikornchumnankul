@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 💻 [Dev.io](https://dev.to/nitikornchumnankul) (Eng)
 
 📚 [Stackshare](https://stackshare.io/nitikornchumnankul) (Eng)
+
+⚡ [kaggle](https://www.kaggle.com/nitikornchumnankul)
 ## Private
 ✏ [Notion](https://www.notion.so/Life-Wiki-a133ae2d0ece4c519b1fd14da060a550)
 

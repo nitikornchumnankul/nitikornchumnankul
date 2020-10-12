@@ -60,4 +60,5 @@ Here are some ideas to get you started:
 
 - [dna-center](https://github.com/nitikornchumnankul/dna-center)
 
+- [Canary-deployment-on-flagger-pipeline](https://github.com/nitikornchumnankul/Canary-deployment-on-flagger-pipeline)
  

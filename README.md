@@ -39,13 +39,15 @@ Here are some ideas to get you started:
 
 📚 [Stackshare](https://stackshare.io/nitikornchumnankul) (Eng)
 
-⚡ [kaggle](https://www.kaggle.com/nitikornchumnankul) (Eng)
+⚡ [Kaggle](https://www.kaggle.com/nitikornchumnankul) (Eng)
 
-🌱 [katacoda](https://katacoda.com/nitikorn) (Eng)
+🌱 [Katacoda](https://katacoda.com/nitikorn) (Eng)
 ## Private
  :clipboard: [Notion](https://www.notion.so/Life-Wiki-a133ae2d0ece4c519b1fd14da060a550)
 
- :clipboard: [research](https://github.com/nitikornchumnankul/research)
+ :clipboard: [Research](https://github.com/nitikornchumnankul/research)
+             
+ :clipboard: [Mylife](https://github.com/nitikornchumnankul/mylife)
 
 ## Active Project
 - [best-practices](https://github.com/nitikornchumnankul/best-practices)

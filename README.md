@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 🌱 [Katacoda](https://katacoda.com/nitikorn) (Eng)
 
-🤔 [Codementor](https://www.codementor.io/u/dashboard)
+🤔 [Codementor](https://www.codementor.io/u/dashboard) (Eng)
 ## Private
  :clipboard: [Notion](https://www.notion.so/Life-Wiki-a133ae2d0ece4c519b1fd14da060a550)
 

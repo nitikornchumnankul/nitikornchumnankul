@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 
 🌱 [katacoda](https://katacoda.com/nitikorn) (Eng)
 ## Private
-✏ [Notion](https://www.notion.so/Life-Wiki-a133ae2d0ece4c519b1fd14da060a550)
+ :clipboard: [Notion](https://www.notion.so/Life-Wiki-a133ae2d0ece4c519b1fd14da060a550)
+
+ :clipboard: [research](https://github.com/nitikornchumnankul/research)
 
 ## Active Project
 - [best-practices](https://github.com/nitikornchumnankul/best-practices)

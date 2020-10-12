@@ -33,13 +33,15 @@ Here are some ideas to get you started:
  
 # My Blogs
 ## Publics
-🖥 [MEDIUM](https://medium.com/@nitikornchumnankul_93990) (Thai)
+🖥 [MEDIUM](https://medium.com/@nitikornchumnankul_93990) (Thai) active now!!
 
 💻 [Dev.io](https://dev.to/nitikornchumnankul) (Eng)
 
 📚 [Stackshare](https://stackshare.io/nitikornchumnankul) (Eng)
 
-⚡ [kaggle](https://www.kaggle.com/nitikornchumnankul)
+⚡ [kaggle](https://www.kaggle.com/nitikornchumnankul) (Eng)
+
+🌱 [katacoda](https://katacoda.com/nitikorn) (Eng)
 ## Private
 ✏ [Notion](https://www.notion.so/Life-Wiki-a133ae2d0ece4c519b1fd14da060a550)
 

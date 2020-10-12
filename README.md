@@ -40,4 +40,14 @@ Here are some ideas to get you started:
 📚 [Stackshare](https://stackshare.io/nitikornchumnankul) (Eng)
 ## Private
 ✏ [Notion](https://www.notion.so/Life-Wiki-a133ae2d0ece4c519b1fd14da060a550)
+
+## Active Project
+- [best-practices](https://github.com/nitikornchumnankul/best-practices)
+
+- [ckad](https://github.com/nitikornchumnankul/ckad)
+
+- [image-processing](https://github.com/nitikornchumnankul/image-processing)
+
+- [angular-springboot](https://github.com/nitikornchumnankul/angular-springboot)
+
  

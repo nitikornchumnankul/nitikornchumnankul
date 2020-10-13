@@ -55,15 +55,15 @@ Here are some ideas to get you started:
  :clipboard: [Social Media](https://github.com/nitikornchumnankul/social-media)
  
 ## Active Project
-- [best-practices](https://github.com/nitikornchumnankul/best-practices)
+:star2: [best-practices](https://github.com/nitikornchumnankul/best-practices)
 
-- [ckad](https://github.com/nitikornchumnankul/ckad)
+:star2: [ckad](https://github.com/nitikornchumnankul/ckad)
 
-- [image-processing](https://github.com/nitikornchumnankul/image-processing)
+:star2: [image-processing](https://github.com/nitikornchumnankul/image-processing)
 
-- [angular-springboot](https://github.com/nitikornchumnankul/angular-springboot)
+:star2: [angular-springboot](https://github.com/nitikornchumnankul/angular-springboot)
 
-- [dna-center](https://github.com/nitikornchumnankul/dna-center)
+:star2: [dna-center](https://github.com/nitikornchumnankul/dna-center)
 
-- [Canary-deployment-on-flagger-pipeline](https://github.com/nitikornchumnankul/Canary-deployment-on-flagger-pipeline)
+:star2: [Canary-deployment-on-flagger-pipeline](https://github.com/nitikornchumnankul/Canary-deployment-on-flagger-pipeline)
  

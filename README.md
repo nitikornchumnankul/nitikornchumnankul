@@ -50,7 +50,9 @@ Here are some ideas to get you started:
  :clipboard: [Research](https://github.com/nitikornchumnankul/research)
              
  :clipboard: [Mylife](https://github.com/nitikornchumnankul/mylife)
-
+ 
+ :clipboard: [Social Media](https://github.com/nitikornchumnankul/social-media)
+ 
 ## Active Project
 - [best-practices](https://github.com/nitikornchumnankul/best-practices)
 

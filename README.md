@@ -67,4 +67,7 @@ Here are some ideas to get you started:
 :star2: [dna-center](https://github.com/nitikornchumnankul/dna-center)
 
 :star2: [Canary-deployment-on-flagger-pipeline](https://github.com/nitikornchumnankul/Canary-deployment-on-flagger-pipeline)
+
+## Record Terminal
+[Terminalizer](https://terminalizer.com/)
  

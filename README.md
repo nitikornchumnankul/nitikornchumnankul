@@ -22,14 +22,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nitikornchumnankul)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
-
-
-# Get in touch
- [<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/Nitikorn_SUT) 
- [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>](https://web.facebook.com/profile.php?id=100001174089600&fref=comp) 
- 
  
 # My Blogs
 ## Publics
